@@ -110,7 +110,7 @@ Akun di atas digunakan untuk pengujian lokal setelah seeder berhasil dijalankan.
 
 ### 1. Jumlah Produk
 
-![Jumlah Produk](dokumentasi/jumlah produk.png)
+![Jumlah Produk](dokumentasi/Jumlah%20produk.png)
 
 ### 2. Kategori Beserta Jumlah Produk
 
