@@ -140,7 +140,7 @@ Akun di atas digunakan untuk pengujian lokal setelah seeder berhasil dijalankan.
 
 ### 3. Role Editor
 
-![Role Editor](dokumentasi/role%20editor.pngg)
+![Role Editor](dokumentasi/role%20editor.png)
 
 ### 4. Role User — Akses Ditolak (403)
 
