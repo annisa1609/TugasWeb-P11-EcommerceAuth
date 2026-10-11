@@ -1,0 +1,1 @@
+<?php return ['default'=>env('CACHE_STORE','database'),'stores'=>['array'=>['driver'=>'array','serialize'=>false],'database'=>['driver'=>'database','table'=>env('DB_CACHE_TABLE','cache'),'lock_table'=>env('DB_CACHE_LOCK_TABLE')]],'prefix'=>env('CACHE_PREFIX','ecommerce_auth_cache')];
